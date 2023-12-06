@@ -1,4 +1,4 @@
-Title – Animal intrusion detection in digital farming using deep learning
+Title – Detection of animal intrusion in digital farming using deep learning
 
 Team members:
 
