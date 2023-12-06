@@ -1,5 +1,7 @@
 Title – Animal intrusion detection in digital farming using deep learning
+
 Team members:
+
 K Sai Niketh – AM.EN.U4AIE20162
 
 K Anvesh – AM.EN.U4AIE20138
